@@ -1,4 +1,4 @@
-import { ProdutoEcologico } from "./produtoEcologico.";
+import { ProdutoEcologico } from "./produtoEcologicoInterface";
 
 class ItemDecoracaoSustentavel implements ProdutoEcologico {
     nome: string;
